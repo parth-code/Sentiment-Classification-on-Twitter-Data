@@ -1,5 +1,5 @@
 # Sentiment-Classification-on-Twitter-Data
-By Parth Desai and Sneha Shet
+By **Parth Desai** and **Sneha Shet**
 
 -Program Uses Python3.6  
 -Input file is "trainingObamaRomneytweets.xlsx" (The file is in the same folder as code)  
